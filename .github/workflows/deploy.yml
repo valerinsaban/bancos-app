@@ -13,3 +13,4 @@ jobs:
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_BANCOS_APP }}'
           channelId: live
           projectId: bancos-app
+  
